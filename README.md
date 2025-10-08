@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning development <br>💬 Ask me about anything <br>⚡ Fun fact is I am also and Artist , so I can implement my creativity in my projects .  
+🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning development <br>💬 Ask me about anything <br>⚡ Fun fact is I am also an Artist , so I can implement my creativity in my projects .  
 
 
 ## 🌐 Socials:
