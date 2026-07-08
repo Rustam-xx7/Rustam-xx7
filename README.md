@@ -90,13 +90,44 @@ status      : open to collaborate
 
 <br/>
 
-<div align="center">
-
-[![pc-1](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=pc-1&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false)](https://github.com/Rustam-xx7/pc-1)
-[![RG-Restraunt](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=RG-Restraunt&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false)](https://github.com/Rustam-xx7/RG-Restraunt)
-
-[![PioneersVision](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=PioneersVision&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false)](https://github.com/Rustam-xx7/PioneersVision)
-[![CODSOFT](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=CODSOFT&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false)](https://github.com/Rustam-xx7/CODSOFT)
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">📦 <a href="https://github.com/Rustam-xx7/pc-1">pc-1</a></h3>
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/Rustam-xx7/pc-1?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/stars/Rustam-xx7/pc-1?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/last-commit/Rustam-xx7/pc-1?style=flat-square&labelColor=000000&color=1a1a1a" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">📦 <a href="https://github.com/Rustam-xx7/RG-Restraunt">RG-Restraunt</a></h3>
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/Rustam-xx7/RG-Restraunt?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/stars/Rustam-xx7/RG-Restraunt?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/last-commit/Rustam-xx7/RG-Restraunt?style=flat-square&labelColor=000000&color=1a1a1a" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">📦 <a href="https://github.com/Rustam-xx7/PioneersVision">PioneersVision</a></h3>
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/Rustam-xx7/PioneersVision?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/stars/Rustam-xx7/PioneersVision?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/last-commit/Rustam-xx7/PioneersVision?style=flat-square&labelColor=000000&color=1a1a1a" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">📦 <a href="https://github.com/Rustam-xx7/CODSOFT">CODSOFT</a></h3>
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/Rustam-xx7/CODSOFT?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/stars/Rustam-xx7/CODSOFT?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/last-commit/Rustam-xx7/CODSOFT?style=flat-square&labelColor=000000&color=1a1a1a" />
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -147,7 +178,7 @@ status      : open to collaborate
 <img src="https://raw.githubusercontent.com/Rustam-xx7/Rustam-xx7/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-<sub>
+<!-- <sub>
 
 **setup note** — the snake graphic above needs a one-time GitHub Action. Add `.github/workflows/snake.yml` to this repo:
 
@@ -181,7 +212,7 @@ jobs:
 
 Once it runs once, the animation renders automatically on every push.
 
-</sub>
+</sub> -->
 
 <br/>
 
@@ -197,7 +228,7 @@ Once it runs once, the animation renders automatically on every push.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rustam-xx7&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&title=ffffff&rank=ff0000&border=2b2b2b"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rustam-xx7&theme=flat&no-frame=true&row=1&column=6&title=Commits,Stars,Followers,PullRequest,Repositories,Experience" />
 
 </div>
 
