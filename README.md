@@ -92,11 +92,11 @@ status      : open to collaborate
 
 <div align="center">
 
-[![pc-1](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=pc-1&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=2b2b2b&hide_border=false)](https://github.com/Rustam-xx7/pc-1)
-[![RG-Restraunt](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=RG-Restraunt&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=2b2b2b&hide_border=false)](https://github.com/Rustam-xx7/RG-Restraunt)
+[![pc-1](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=pc-1&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false)](https://github.com/Rustam-xx7/pc-1)
+[![RG-Restraunt](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=RG-Restraunt&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false)](https://github.com/Rustam-xx7/RG-Restraunt)
 
-[![PioneersVision](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=PioneersVision&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=2b2b2b&hide_border=false)](https://github.com/Rustam-xx7/PioneersVision)
-[![CODSOFT](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=CODSOFT&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=2b2b2b&hide_border=false)](https://github.com/Rustam-xx7/CODSOFT)
+[![PioneersVision](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=PioneersVision&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false)](https://github.com/Rustam-xx7/PioneersVision)
+[![CODSOFT](https://github-readme-stats.vercel.app/api/pin/?username=Rustam-xx7&repo=CODSOFT&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false)](https://github.com/Rustam-xx7/CODSOFT)
 
 </div>
 
@@ -114,12 +114,12 @@ status      : open to collaborate
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rustam-xx7&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=2b2b2b&count_private=true&include_all_commits=true&hide_rank=false"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-xx7&layout=compact&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&border_color=2b2b2b&hide_border=false"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rustam-xx7&show_icons=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&count_private=true&include_all_commits=true&hide_rank=false"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-xx7&layout=compact&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&border_color=30363d&hide_border=false"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rustam-xx7&theme=dark&background=00000000&border=2b2b2b&ring=ffffff&fire=ff0000&currStreakLabel=ffffff&sideLabels=8b949e&dates=6e7681&hide_border=false" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Rustam-xx7&theme=dark&background=0D1117&border=30363d&ring=ffffff&fire=ff0000&currStreakLabel=ffffff&sideLabels=8b949e&dates=6e7681&hide_border=false" alt="GitHub Streak"/>
 
 </div>
 
@@ -137,7 +137,7 @@ status      : open to collaborate
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rustam-xx7&theme=github-compact&bg_color=00000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rustam-xx7&theme=github-compact&bg_color=0D1117&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
