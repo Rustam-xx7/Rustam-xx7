@@ -119,11 +119,11 @@ status      : open to collaborate
 </p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">📦 <a href="https://github.com/Rustam-xx7/CODSOFT">CODSOFT</a></h3>
+<h3 align="center">📦 <a href="https://github.com/Rustam-xx7/IIFN">IIFN</a></h3>
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/Rustam-xx7/CODSOFT?style=flat-square&labelColor=000000&color=1a1a1a" />
-<img src="https://img.shields.io/github/stars/Rustam-xx7/CODSOFT?style=flat-square&labelColor=000000&color=1a1a1a" />
-<img src="https://img.shields.io/github/last-commit/Rustam-xx7/CODSOFT?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/languages/top/Rustam-xx7/IIFN?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/stars/Rustam-xx7/IIFN?style=flat-square&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/github/last-commit/Rustam-xx7/IIFN?style=flat-square&labelColor=000000&color=1a1a1a" />
 </p>
 </td>
 </tr>
@@ -178,7 +178,7 @@ status      : open to collaborate
 <img src="https://raw.githubusercontent.com/Rustam-xx7/Rustam-xx7/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-<!-- <sub>
+<sub>
 
 **setup note** — the snake graphic above needs a one-time GitHub Action. Add `.github/workflows/snake.yml` to this repo:
 
@@ -212,7 +212,7 @@ jobs:
 
 Once it runs once, the animation renders automatically on every push.
 
-</sub> -->
+</sub>
 
 <br/>
 
@@ -228,7 +228,7 @@ Once it runs once, the animation renders automatically on every push.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rustam-xx7&theme=flat&no-frame=true&row=1&column=6&title=Commits,Stars,Followers,PullRequest,Repositories,Experience" />
+<img src="https://github-trophies.vercel.app/?username=Rustam-xx7&theme=flat&no-frame=true&row=1&column=6&title=Commits,Stars,Followers,PullRequest,Repositories,Experience" />
 
 </div>
 
