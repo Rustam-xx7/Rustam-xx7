@@ -178,7 +178,7 @@ status      : open to collaborate
 <img src="https://raw.githubusercontent.com/Rustam-xx7/Rustam-xx7/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-<sub>
+<!-- <sub>
 
 **setup note** — the snake graphic above needs a one-time GitHub Action. Add `.github/workflows/snake.yml` to this repo:
 
@@ -212,7 +212,7 @@ jobs:
 
 Once it runs once, the animation renders automatically on every push.
 
-</sub>
+</sub> -->
 
 <br/>
 
