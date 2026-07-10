@@ -210,7 +210,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Once it runs once, the animation renders automatically on every push.
+Once it runs once, the animation renders automatically on every push. but its not updating daily
 
 </sub> -->
 
