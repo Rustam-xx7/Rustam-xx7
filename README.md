@@ -256,4 +256,5 @@ Once it runs once, the animation renders automatically on every push. but its no
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&width=800" />
 <br/><br/>
 <sub>● thanks for stopping by ●</sub>
+<sub>さようなら</sub>
 </div>
